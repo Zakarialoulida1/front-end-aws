@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Link, Outlet } from "react-router-dom";
 import { LOGIN_ROUTE, REGISTER_ROUTE } from '../router';
 
